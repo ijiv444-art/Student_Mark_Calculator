@@ -1,4 +1,5 @@
 **STUDENT MARK CALCULATOR**
+
 A python based application designed to calculate student academic performance by evaluating subject wise marks, total marks, percentage, grades, and pass/fail status.
 
 # Project Review
