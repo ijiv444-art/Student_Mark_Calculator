@@ -75,4 +75,4 @@ Student Developer
 
 Developed  as a practical Python programming project to strengthen fundamental programming skills and problem solving abilities.
 
-***If you find this project useful ,feel free to explore and learn from it.***
+***If you find this project useful, feel free to explore and learn from it.***
