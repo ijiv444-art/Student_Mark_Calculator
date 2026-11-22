@@ -8,14 +8,14 @@ The Student mark calculator is a beginner friendly python project that automates
 I developed this project to practice Python programming and understand how programming concepts are used in a real application.
 
 ## Features 
-    -Student Information: Accepts the Student's name.
-    -Subject-wise Marks: Takes mark for python, Java, English, Mathematics, and Physics.
-    -Input Validation: Ensures marks are within the range of 0 to 100.
-    -Exception Handling: Handles invalid text input using try-except.
-    -Automatic Calculation: Calculates total marks and percentage.
-    -Grade Evaluation: Assigns grades based on percentage.
-    -Pass/Fail Evaluation: Checks whether the student has passed all five subjects.
-    -Formatted Report: Displays a clear academic performance report.
+    - Student Information: Accepts the Student's name.
+    - Subject-wise Marks: Takes mark for python, Java, English, Mathematics, and Physics.
+    - Input Validation: Ensures marks are within the range of 0 to 100.
+    - Exception Handling: Handles invalid text input using try-except.
+    - Automatic Calculation: Calculates total marks and percentage.
+    - Grade Evaluation: Assigns grades based on percentage.
+    - Pass/Fail Evaluation: Checks whether the student has passed all five subjects.
+    - Formatted Report: Displays a clear academic performance report.
 
 ## Technology Used 
 Python 3
