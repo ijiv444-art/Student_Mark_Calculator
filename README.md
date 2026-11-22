@@ -2,7 +2,7 @@
 
 A python based application designed to calculate student academic performance by evaluating subject wise marks, total marks, percentage, grades, and pass/fail status.
 
-# Project Review
+## Project Review
 The Student mark calculator is a beginner friendly python project that automates the process of calculating student's results. It accepts marks for five subjects, validate user input, calculates academic performance, and generates a formatted student report.
 
 I developed this project to practice Python programming and understand how programming concepts are used in a real application.
